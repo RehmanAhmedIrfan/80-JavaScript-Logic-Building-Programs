@@ -1,8 +1,8 @@
 # 80+ JavaScript-Logic-Building-Programs
 
-*Program to Print "Hello World"
-*Program to Add Two Numbers
-*Program to Find the Square Root
+* Program to Print "Hello World"
+* Program to Add Two Numbers
+* Program to Find the Square Root
 *Program to Calculate the Area of a Triangle
 *Program to Swap Two Variables
 *Program to Convert Kilometers to Miles
